@@ -3,26 +3,26 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "20567114"))
+API_ID = int(os.environ.get("API_ID", "27041528"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","8a5b92106e45fc6637a65a67df060a65")
+API_HASH = os.environ.get("API_HASH","0a67358ebccb6a642778e3844f5da335")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8024972578:AAFahP8njNmQjN7Xywyo8BQ9Z_Q-232K7CI")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6425512691:AAEHY5HEmvE_MId6bRChkVFVf2YEIUcdnjA")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@AshuExtractorBot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Gshsjsosch_bot")
 BOT_TEXT = "@AshuExtractorBot"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "8036182138"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6763842898"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002829360841"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002466867742"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002829360841")")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002466867742")")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://vikassonawale0:JWyQFas7vlG1bkaL@cluster0.beermge.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://piiyush01:TjJRRQLH6iYRbTRV@cluster0.zh1j3ql.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002829360841"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002466867742"))
 # -----------------------------------------------
 join = '<a href="https://t.me/ifsashu1">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
